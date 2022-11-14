@@ -1,0 +1,5 @@
+print("hello world")
+print("hello world",sep="_") #using seperator function 
+print(1)
+print(3.0, end=",") #using end function
+print(5.0)
