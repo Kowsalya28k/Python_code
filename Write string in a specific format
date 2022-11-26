@@ -1,0 +1,3 @@
+print("""hi
+            hello
+      How are you?""") # use triple quotes to write strin in a specific format
